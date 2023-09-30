@@ -7,6 +7,10 @@ const nameData = {
       title: 'lewicide',
       content: '@networkthief',
     },
+    restrict: {
+      title: 'restrict',
+      content: '@networkcriminal',
+    },
   };
 
   const nameLinks = document.querySelectorAll('.names a');
